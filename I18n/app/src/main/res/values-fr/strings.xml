@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="highScoreMessage">Félicitations! C\'est un nouveau score élevé!</string>
+    <string name="playAgainPrompt">Vous avez terminé le jeu! Voulez-vous rejouer?</string>
+    <string name="restartButton">Redémarrage</string>
+    <string name="endGameButton">Fin du jeu</string>
+    <string name="currentScore">Score actuel:</string>
+    <string name="highScore">Score élevé:</string>
+    <string name="alertDialogTitle">Jeu terminé</string>
+    <string name="tryAgain">Réessayer!</string>
+    <string name="countingLevelLabel">Niveau</string>
+    <string name="alphabetInstruction">Appuyez sur les carrés par ordre alphabétique</string>
+    <string name="alphabetHint">Indice : qu\'est-ce qui vient après</string>
+    <string name="guessWordHangman">Devinez le mot :</string>
+    <string name="hangmanSpellPrompt">Épeler:</string>
+    <string name="spellingGameHint">Indice:</string>
+    <string name="levelLabelTapPAir">Appuyez sur la paire!</string>
+    <string name="tapPairHint">Astuce : quelles lettres apparaissent deux fois ?</string>
+</resources>

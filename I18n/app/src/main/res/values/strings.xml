@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="highScoreMessage">Congrats! That\'s a new high score!</string>
+    <string name="playAgainPrompt">You\'ve completed the game! Do you want to play again?</string>
+    <string name="endGameButton">End Game</string>
+    <string name="currentScore">Current Score:</string>
+    <string name="highScore">"High Score: "</string>
+    <string name="alertDialogTitle">"Game Complete "</string>
+    <string name="restartButton">Restart</string>
+    <string name="tryAgain">Try Again!</string>
+    <string name="countingLevelLabel">Level</string>
+    <string name="alphabetInstruction">Tap the squares in alphabetical order</string>
+    <string name="alphabetHint">Hint: What comes after</string>
+    <string name="guessWordHangman">"Guess Word: "</string>
+    <string name="hangmanSpellPrompt">"Spell: "</string>
+    <string name="spellingGameHint">"Hint: "</string>
+    <string name="levelLabelTapPAir">Tap the Pair!</string>
+    <string name="tapPairHint">Hint: Which letters occur twice?</string>
+</resources>
